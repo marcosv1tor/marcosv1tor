@@ -9,6 +9,8 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo!
  
  ```JavaScript 
 const MarcosVitor = {
+  curso: "Análise e Desenvolvimento de sistemas"
+  faculdade: "UDF"
   empresa: "Websis Tecnologia",
   atuacao: "FullStack",
   linguagensDeMaiorFluencia: ["JavaScript", "C#", "React"]
