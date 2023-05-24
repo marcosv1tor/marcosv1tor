@@ -39,3 +39,4 @@ const MarcosVitor = {
 
 <br/>
 
+![Snake animation](https://github.com/marcosv1tor/marcosv1tor/blob/output/github-contribution-grid-snake.svg)
