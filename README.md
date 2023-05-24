@@ -34,7 +34,7 @@ const MarcosVitor = {
 <br/>
 
 <a href="https://github.com/marcosv1tor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markinvitor&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosv1tor&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
