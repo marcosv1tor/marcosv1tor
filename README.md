@@ -1,7 +1,6 @@
 ## Hello World 👋
 ### Bem vindo(a) ao meu perfil !
 
-![snake gif](https://github.com/marcosv1tor/marcosv1tor/blob/output/github-contribution-grid-snake2.svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
