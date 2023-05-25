@@ -39,4 +39,6 @@ const MarcosVitor = {
 
 <br/>
 
+<img align="center" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
+
 ![snake gif](https://github.com/marcosv1tor/marcosv1tor/blob/output/github-contribution-grid-snake2.svg)
