@@ -19,7 +19,7 @@ const MarcosVitor = {
   faculdade: "UDF",
   empresa: "Websis Tecnologia",
   atuacao: "FullStack",
-  linguagensDeMaiorFluencia: ["JavaScript", "C#", "React"]
+  linguagensDeMaiorFluencia: ["TypeScript", "C#", "React", "Angular"]
 };
 
 ```
