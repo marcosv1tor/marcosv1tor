@@ -17,7 +17,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo!
 const MarcosVitor = {
   curso: "Análise e Desenvolvimento de sistemas",
   faculdade: "UDF",
-  empresa: "Websis Tecnologia",
+  empresa: "Medware Sistemas Médicos",
   atuacao: "FullStack",
   linguagensDeMaiorFluencia: ["TypeScript", "C#", "React", "Angular"]
 };
