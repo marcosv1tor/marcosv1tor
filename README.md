@@ -1,50 +1,63 @@
-## Hello World 👋
-### Bem vindo(a) ao meu perfil !
+# Olá, eu sou o Marcos Vítor! 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+## 🚀 Engenheiro de Software Full Stack | .NET & Azure Specialist
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+Sou um desenvolvedor focado no ecossistema **Microsoft (.NET)** e **Azure**, apaixonado por resolver problemas complexos através de **Clean Architecture**, **DDD** e soluções assíncronas de alta performance.
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo!
+Atualmente, atuo na **Medware Sistemas Médicos**, liderando a modernização de sistemas legados e criando soluções inovadoras que integram **Agentes de IA** a processos médicos.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
- 
- ```JavaScript 
-const MarcosVitor = {
-  curso: "Análise e Desenvolvimento de sistemas",
-  faculdade: "UDF",
-  empresa: "Medware Sistemas Médicos",
-  atuacao: "FullStack",
-  linguagensDeMaiorFluencia: ["TypeScript", "C#", "React", "Angular"]
-};
+---
 
-```
+### 👨‍💻 O que estou fazendo agora?
+- 🔭 **Modernização:** Migrando arquiteturas monolíticas e endpoints SOAP para **REST APIs** escaláveis em .NET Core.
+- 🤖 **IA & Automação:** Desenvolvendo *Windows Services* que utilizam **LLMs** para ler e interpretar laudos médicos automaticamente.
+- ☁️ **Cloud:** Implementando uploads assíncronos massivos usando **Azure Blob Storage** e **SignalR** para feedback em tempo real.
 
-## 🚀Skills 
+---
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#"/></code>
+### 🛠 Tech Stack
 
+**Backend & Architecture**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<br/>
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<a href="https://github.com/marcosv1tor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosv1tor&theme=dracula&show_icons=true" />
-</a>
+**Database & DevOps**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+---
 
-<img align="center" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg">
+### ⚡ Meu DNA Técnico
+```csharp
+public class MarcosVitor : SoftwareEngineer
+{
+    public string Company => "Medware Sistemas Médicos";
+    
+    public string[] CoreSkills => new[] 
+    { 
+        ".NET 8 / C#", 
+        "Clean Architecture & DDD", 
+        "Azure (Blob, App Service, DevOps)", 
+        "AI Agents Integration" 
+    };
 
-
+    public void DailyFocus()
+    {
+        while(true)
+        {
+            RefactorLegacyCode();
+            ImplementHighPerformanceAPIs();
+            StudyNewTech();
+        }
+    }
+}
