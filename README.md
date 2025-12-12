@@ -1,6 +1,6 @@
 # Olá, sou o Marcos Vítor! 👋
 
-## 🚀 Engenheiro de Software Full Stack | .NET, Azure & Microservices Specialist
+## 🚀 Engenheiro de Software Full Stack | .NET (C#), Azure | Microservices | AI Solutions | NodeJS
 
 Sou um Engenheiro de Software focado na construção de **sistemas distribuídos**, **APIs de alta performance** e soluções escaláveis em nuvem. Com sólida experiência no ciclo completo de desenvolvimento (SDLC), combino excelência técnica em **.NET** e **Node.js** com metodologias ágeis como **SCRUM** para entregar valor contínuo.
 
