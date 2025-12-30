@@ -1,4 +1,4 @@
-# Olá, sou o Marcos Vítor! 👋
+# Olá, sou Marcos Vítor! 👋
 
 ## 🚀 Engenheiro de Software Full Stack | .NET & (C#), Azure & Microservices | AI solutions
 
