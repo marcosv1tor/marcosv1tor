@@ -1,6 +1,6 @@
-# Olá, sou Marcos Vítor! 👋
+# Olá, sou Marcos Vítor! 
 
-## 🚀 Engenheiro de Software Full Stack | .NET & (C#), Azure & Microservices | AI solutions
+## Engenheiro de Software Full Stack | .NET & (C#), Azure & Microservices | AI solutions
 
 Sou um Engenheiro de Software focado na construção de **sistemas distribuídos**, **APIs de alta performance** e soluções escaláveis em nuvem. Com sólida experiência no ciclo completo de desenvolvimento (SDLC), combino excelência técnica em **.NET** e **Node.js** com metodologias ágeis como **SCRUM** para entregar valor contínuo.
 
@@ -8,17 +8,17 @@ Minha especialidade é desenhar arquiteturas robustas utilizando **DDD** e **Cle
 
 ---
 
-### 🔥 Destaques de Engenharia & Projetos Recentes
+### Destaques de Engenharia & Projetos Recentes
 
 Aqui estão alguns desafios técnicos complexos que solucionei recentemente:
 
-- 🏗️ **Arquitetura de Upload Assíncrono:** Criação de um módulo desacoplado usando **.NET Core** e **SignalR** para uploads simultâneos massivos no **Azure Blob Storage**, eliminando bloqueios de UI.
-- 🤖 **Integração de Agentes de IA:** Desenvolvimento de *Windows Services* que monitoram diretórios e utilizam **LLMs** para extração automática de dados sensíveis em laudos médicos.
-- 🔄 **Modernização de Legado (SOAP para REST):** Liderança na refatoração de backends monolíticos, migrando endpoints SOAP para uma arquitetura de **API REST** centralizada e segura.
+- **Arquitetura de Upload Assíncrono:** Criação de um módulo desacoplado usando **.NET Core** e **SignalR** para uploads simultâneos massivos no **Azure Blob Storage**, eliminando bloqueios de UI.
+- **Integração de Agentes de IA:** Desenvolvimento de *Windows Services* que monitoram diretórios e utilizam **LLMs** para extração automática de dados sensíveis em laudos médicos.
+- **Modernização de Legado (SOAP para REST):** Liderança na refatoração de backends monolíticos, migrando endpoints SOAP para uma arquitetura de **API REST** centralizada e segura.
 
 ---
 
-### 🧠 Metodologias & Conceitos
+### Metodologias & Conceitos
 
 Não escrevo apenas código, construo soluções baseadas em boas práticas:
 
