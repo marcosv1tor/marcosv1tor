@@ -1,54 +1,67 @@
-# Olá, sou Marcos Vítor! 
+<h1 align="center">Olá! Sou o Marcos.</h1>
 
-## Engenheiro de Software Full Stack | .NET & Azure | AI Solutions | TS | Node
+<p align="center">
+  I'm 25, from Brazil and Spain, and currently working mainly with .NET and Azure cloud technologies, focusing on high-performance systems and AI-integrated solutions.
+</p>
+
+<p align="center">
+  I'm a Full Stack Software Engineer passionate about Clean Architecture, DDD, and scalable distributed systems.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/marcosvitor7"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:marcosvitorbc@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/marcosvitor"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-8A2BE2" />
+  <img src="https://img.shields.io/badge/Software%20Architecture-2E8B57" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-007FFF" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF4500" />
+  <img src="https://img.shields.io/badge/Full%20Stack-20B2AA" />
+</p>
+
+---
 
 ### MAIN STACK & CORE SKILLS
 
-* **Backend:** .NET 8/10, C#, ASP.NET Web API, .NET Core, .NET Framework (4.7/4.8), Node.js (NestJS).
-* **Cloud & DevOps:** Azure (App Services, Functions, Service Bus, Blob Storage, Key Vault), Docker, CI/CD Pipelines (Azure DevOps).
-* **Frontend:** Angular 12+ (Signals/RxJS), React (Hooks/Context), TypeScript, SignalR (Real-time).
-* **Data & Messaging:** SQL Server (Query Optimization), PostgreSQL, MongoDB, Redis, RabbitMQ, Azure Service Bus.
-* **Architecture & Security:** Clean Architecture, DDD, SOLID, Microservices, CQRS, OAuth2, JWT.
-  
+* **Backend:** .NET 8/10, C#, ASP.NET Web API, .NET Core, .NET Framework.
+* **Cloud & DevOps:** Azure (App Services, Functions, Service Bus, Key Vault), Docker, CI/CD Pipelines.
+* **Frontend:** Angular 12+ (Signals/RxJS), React (Hooks/Context), TypeScript, SignalR.
+* **Data & Messaging:** SQL Server, PostgreSQL, MongoDB, Redis, RabbitMQ, Azure Service Bus.
+* **Architecture & Security:** Clean Architecture, DDD, SOLID, Microservices, OAuth2, JWT.
+
 ---
 
 ### Metodologias & Conceitos
 
-![Scrum](https://img.shields.io/badge/Agile-SCRUM-blue?style=for-the-badge&logo=scrum&logoColor=white)
-![Clean Arch](https://img.shields.io/badge/Architecture-Clean_Architecture-success?style=for-the-badge&logo=codeproject&logoColor=white)
-![DDD](https://img.shields.io/badge/Design-DDD-orange?style=for-the-badge&logo=domaindrivenndesign&logoColor=white)
-![Microservices](https://img.shields.io/badge/Architecture-Microservices-red?style=for-the-badge&logo=serverless&logoColor=white)
-![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD-blueviolet?style=for-the-badge&logo=github-actions&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Agile-SCRUM-blue?style=for-the-badge&logo=scrum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-success?style=for-the-badge&logo=codeproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-DDD-orange?style=for-the-badge&logo=domaindrivenndesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices-red?style=for-the-badge&logo=serverless&logoColor=white" />
+</p>
 
 ---
 
 ### Tech Stack Detalhada
 
-**Backend & Mensageria**
-![.NET](https://img.shields.io/badge/.NET_8/10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Azure Service Bus](https://img.shields.io/badge/Service_Bus-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Key Vault](https://img.shields.io/badge/Key_Vault-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-**Frontend & Mobile**
-![Angular](https://img.shields.io/badge/Angular_12+-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-181717?style=for-the-badge&logo=dotnet&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET_8/10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular_12+-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
 ---
 
 ### DNA Técnico
+
 ```csharp
-public class MarcosVitor : PlenoSoftwareEngineer
+public class MarcosVitor : PlenoSoftwareEngineer [cite: 1, 13]
 {
     public string[] CoreSkills => new[] 
     { 
