@@ -4,23 +4,12 @@
 
 ### MAIN STACK & CORE SKILLS
 
-* [cite_start]**Backend:** .NET 8/10, C#, ASP.NET Web API, .NET Core, .NET Framework (4.7/4.8), Node.js (NestJS)[cite: 4, 8].
-* [cite_start]**Cloud & DevOps:** Azure (App Services, Functions, Service Bus, Blob Storage, Key Vault), Docker, CI/CD Pipelines (Azure DevOps)[cite: 5, 9, 23].
-* [cite_start]**Frontend:** Angular 12+ (Signals/RxJS), React (Hooks/Context), TypeScript, SignalR (Real-time)[cite: 8, 15, 30].
-* [cite_start]**Data & Messaging:** SQL Server (Query Optimization), PostgreSQL, MongoDB, Redis, RabbitMQ, Azure Service Bus[cite: 9, 10, 22].
-* [cite_start]**Architecture & Security:** Clean Architecture, DDD, SOLID, Microservices, CQRS, OAuth2, JWT[cite: 5, 10, 21].
-
----
-
-### Destaques de Engenharia & Projetos Recentes
-
-Aqui estão alguns desafios técnicos que solucionei recentemente utilizando o padrão **XYZ do Google**:
-
-- [cite_start]**Arquitetura de Upload Cloud-Native:** Desenvolvi um módulo desacoplado usando **.NET** e **SignalR** para uploads simultâneos massivos no **Azure Blob Storage**, eliminando gargalos de UI e aumentando a produtividade médica[cite: 15].
-- [cite_start]**Automação com IA:** Projetei Background Services integrados a **Agentes de IA (OCR/LLM)** para extração automática de dados sensíveis de laudos médicos, eliminando erros de input manual através do cruzamento de dados com Firebird[cite: 16].
-- [cite_start]**Modernização de Legado:** Liderei a migração de sistemas de **.NET Framework 4.8 para .NET 8** e endpoints SOAP para **REST APIs** centralizadas, implementando camadas de auditoria e segurança[cite: 17].
-- [cite_start]**Performance de Dados:** Reduzi o tempo de resposta em filtros de grandes volumes de dados governamentais em **3-5 segundos** ao refatorar queries complexas no SQL Server via **Dapper**[cite: 22].
-
+* **Backend:** .NET 8/10, C#, ASP.NET Web API, .NET Core, .NET Framework (4.7/4.8), Node.js (NestJS).
+* **Cloud & DevOps:** Azure (App Services, Functions, Service Bus, Blob Storage, Key Vault), Docker, CI/CD Pipelines (Azure DevOps).
+* **Frontend:** Angular 12+ (Signals/RxJS), React (Hooks/Context), TypeScript, SignalR (Real-time).
+* **Data & Messaging:** SQL Server (Query Optimization), PostgreSQL, MongoDB, Redis, RabbitMQ, Azure Service Bus.
+* **Architecture & Security:** Clean Architecture, DDD, SOLID, Microservices, CQRS, OAuth2, JWT.
+  
 ---
 
 ### Metodologias & Conceitos
